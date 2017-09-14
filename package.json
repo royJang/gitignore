@@ -1,0 +1,8 @@
+{
+  "name": "gitignore",
+  "version": "0.0.1",
+  "description": "gitignore generator",
+  "main": "src/index.js",
+  "author": "roy",
+  "license": "MIT"
+}
